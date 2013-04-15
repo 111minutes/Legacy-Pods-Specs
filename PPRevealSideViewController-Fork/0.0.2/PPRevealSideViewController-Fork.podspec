@@ -17,5 +17,5 @@ Pod::Spec.new do |s|
 
   s.source_files = 'PPRevealSideViewController/PPRevealSideViewController'
 
-  s.clean_paths  = ".gitattributes", ".gitignore", "Documentationq", "EasySample", "PPRevealSideViewController.xcodeproj"
+  #s.clean_paths  = ".gitattributes", ".gitignore", "Documentationq", "EasySample", "PPRevealSideViewController.xcodeproj"
 end
